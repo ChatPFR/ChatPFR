@@ -1,12 +1,12 @@
 # ChatPFR (Chat Punk Fucking Rock): AI Built By the People, For the People
 
-ChatPFR is an open-source project aimed at creating a distributed file system AI that utilizes idle CPU and GPU clock cycles from donors' personal computers for processing. Our goal is to create a decentralized AI system that can't be controlled or manipulated by a single company or government, putting the power of AI in the hands of the people.
+ChatPFR is an open-source project aimed at creating a distributed file system AI that utilizes idle CPU and GPU clock cycles from donors' and end user's personal computers for it's training, learning, and date processing. Our goal is to create a decentralized AI system that can not be controlled or manipulated by a single company or government, putting the power of AI in the hands of the people.
 
 ## The Prompt That Started It All
 
-want to create software that users could install on their computers and allow idle cpu and gpu clock cycles to be used by a distributed file system that could support an open source version of ChatGPT-4. An AI for the people hosted and supported by the people. Because AI being controlled just by monopolies with billions of dollars is dangerous. The only way for an open source AI to be possible is to decentralize it like a block chain. 
+"I want to create software that users could install on their computers and allow idle cpu and gpu clock cycles to be used by a distributed file system that could support an open source version of ChatGPT-4. An AI for the people hosted and supported by the people. Because AI being controlled just by monopolies with billions of dollars is dangerous. The only way for an open source AI to be possible is to decentralize it like a block chain.
 
-How would you go about making this happen?
+How would you go about making this happen?" - Josh Hutson, 2023
 
 ## Objectives
 
