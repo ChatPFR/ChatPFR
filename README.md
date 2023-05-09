@@ -8,6 +8,10 @@ ChatPFR is an open-source project aimed at creating a distributed file system AI
 
 How would you go about making this happen?" - Josh Hutson, 2023
 
+## Inspiration
+
+Seti project based off of BOINC
+
 ## Objectives
 
 1. **Decentralized AI processing**: Develop a system that leverages idle CPU and GPU resources from a network of volunteer computers to create a distributed AI processing platform.
