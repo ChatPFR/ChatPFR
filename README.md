@@ -1,4 +1,4 @@
-# ChatPFR: Punk Fucking Rock AI Built By the People, For the People
+# ChatPFR (Chat Punk Fucking Rock): AI Built By the People, For the People
 
 ChatPFR is an open-source project aimed at creating a distributed file system AI that utilizes idle CPU and GPU clock cycles from donors' personal computers for processing. Our goal is to create a decentralized AI system that can't be controlled or manipulated by a single company or government, putting the power of AI in the hands of the people.
 
