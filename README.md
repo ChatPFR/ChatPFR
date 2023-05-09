@@ -2,6 +2,12 @@
 
 ChatPFR is an open-source project aimed at creating a distributed file system AI that utilizes idle CPU and GPU clock cycles from donors' personal computers for processing. Our goal is to create a decentralized AI system that can't be controlled or manipulated by a single company or government, putting the power of AI in the hands of the people.
 
+## The Prompt That Started It All
+
+want to create software that users could install on their computers and allow idle cpu and gpu clock cycles to be used by a distributed file system that could support an open source version of ChatGPT-4. An AI for the people hosted and supported by the people. Because AI being controlled just by monopolies with billions of dollars is dangerous. The only way for an open source AI to be possible is to decentralize it like a block chain. 
+
+How would you go about making this happen?
+
 ## Objectives
 
 1. **Decentralized AI processing**: Develop a system that leverages idle CPU and GPU resources from a network of volunteer computers to create a distributed AI processing platform.
